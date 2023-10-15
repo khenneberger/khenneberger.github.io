@@ -42,5 +42,5 @@ superuser: true
 title: Katherine Henneberger
 ---
 
-I am a mathematics PhD student at the University of Kentucky advised by [Dr. Jing Qin](https://ms.uky.edu/~jqi229/). My research in applied mathematics and numerical methods focuses on developing new algorithms to process large data sets. I currently serve as University of Kentucky's chapter president of the [Society for Industrial and Applied Mathematics (SIAM)](https://ms.uky.edu/~siam/) and as well as the Association of Women in Mathematics (AWM).
+I am a mathematics PhD student at the University of Kentucky advised by [Dr. Jing Qin](https://ms.uky.edu/~jqi229/). My research in applied mathematics and numerical methods focuses on developing new algorithms to process large data sets. I currently serve as University of Kentucky's chapter president of the [Society for Industrial and Applied Mathematics (SIAM)](https://ms.uky.edu/~siam/) as well as the Association of Women in Mathematics (AWM).
 {style="text-align: justify;"}
