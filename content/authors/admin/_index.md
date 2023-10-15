@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+
 education:
   courses:
   - course: PhD in Mathematics
@@ -12,10 +11,11 @@ education:
   - course: AB in Mathematics, Hispanic Studies. Minor in Government and Legal Studies 
     institution: Bowdoin College
     year: 2020 
-email: ""
+email:
 first_name: Katherine
 highlight_name: true
 interests:
+- Optimization
 - Tensor Completion
 - Numerical Linear Algebra
 - Image Processing
@@ -25,14 +25,11 @@ organizations:
   url: https://math.as.uky.edu/
 role: PhD candidate
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
 - display:
     header: true
 - icon: github
   icon_pack: fab
-  
+  link: https://github.com/khenneberger
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/katherinehenneberger/
@@ -40,10 +37,10 @@ social:
   icon_pack: ai
   
 status:
-  icon: ☕️
+  icon: 
 superuser: true
 title: Katherine Henneberger
 ---
 
-I am a mathematics PhD student at the University of Kentucky advised by Dr. Jing Qin. 
+I am a mathematics PhD student at the University of Kentucky advised by [Dr. Jing Qin](https://ms.uky.edu/~jqi229/). My research in applied mathematics and numerical methods focuses on developing new algorithms to process large data sets. I currently serve as University of Kentucky's chapter president of the [Society for Industrial and Applied Mathematics (SIAM)](https://ms.uky.edu/~siam/) and as well as the Association of Women in Mathematics (AWM).
 {style="text-align: justify;"}
