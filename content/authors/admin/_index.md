@@ -33,8 +33,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/katherinehenneberger/
-- icon: cv
-  icon_pack: ai
+#- icon: cv
+#  icon_pack: ai
+#  link: uploads/resume.pdf
   
 status:
   icon: 
