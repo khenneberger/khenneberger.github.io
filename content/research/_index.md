@@ -50,11 +50,11 @@ You can view my [full CV](../uploads/resume.pdf) or explore my work on [GitHub](
 ---
 ### Posters
 
-- **AWM Research Symposium**, Providence, RI (Oct 2023)  
+- **AWM Research Symposium**, Atlanta, GA (Oct 2023)  
   *"Hyperspectral Band Selection with Matrix CUR Decomposition"*
 
 - **IGARSS**, Pasadena, CA (Jul 2023)  
-  *"Hyperspectral Band Selection with Matrix CUR Decomposition" (Poster)*
+  *"Hyperspectral Band Selection with Matrix CUR Decomposition"*
 
 
 ---
